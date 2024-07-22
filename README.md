@@ -3,7 +3,8 @@
 **Assignment Overview: Load Testing of Petstore Application**
 **1. Introduction:**
 Application Overview:
-The Petstore application exemplifies modern e-commerce platforms, designed to effectively showcase pet-related products and services with intuitive user interfaces. Developed under an open-source model, Petstore provides a simulated environment where users can browse, select, and purchase items, ensuring smooth navigation and transaction processes.
+The Petstore application exemplifies modern e-commerce platforms, designed to effectively showcase pet-related products and services with intuitive user interfaces. Developed under an open-source model, Petstore provides a simulated environment where users can browse, select, and purchase items, ensuring smooth navigation and transaction processes.\n
+
 **2. Application Selection:**
 The Petstore application was selected due to its accessibility as an open-source solution, making it ideal for conducting comprehensive load testing exercises. This choice aligns with the assignment's objectives to evaluate application performance under simulated user loads.
 **3. Testing Scope:**
